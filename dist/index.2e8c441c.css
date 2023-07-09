@@ -7,8 +7,18 @@
   list-style: none;
 }
 
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+body h1 {
+  color: #fff;
+  text-align: center;
+  left: 50%;
+}
+
 #canvas1 {
-  border: 2px solid #fff;
   width: 840px;
   height: 470px;
   position: absolute;
